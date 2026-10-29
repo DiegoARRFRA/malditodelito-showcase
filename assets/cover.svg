@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 400" role="img" aria-labelledby="title desc">
+  <title id="title">MalditoDelito</title>
+  <desc id="desc">Gestión de expedientes, documentos y agenda. Presentación pública de un proyecto en desarrollo.</desc>
+  <rect width="1440" height="400" rx="24" fill="#142638"/>
+  <path d="M1050 0H1440V400H930Z" fill="#1a3148"/>
+  <circle cx="1330" cy="70" r="205" fill="none" stroke="#294258" stroke-width="1.5"/>
+  <circle cx="1330" cy="70" r="265" fill="none" stroke="#294258" stroke-width="1.5"/>
+  <rect x="64" y="53" width="178" height="30" rx="15" fill="#294258"/>
+  <text x="153" y="74" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#e8d5a4">PRODUCT SHOWCASE</text>
+  <text x="64" y="170" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="700" letter-spacing="-3" fill="#ffffff">MalditoDelito</text>
+  <rect x="67" y="196" width="64" height="4" rx="2" fill="#dbc48e"/>
+  <text x="64" y="246" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#dce4eb">Expedientes. Documentos. Agenda.</text>
+  <text x="64" y="285" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#aabccb">El contexto de cada asunto, en un mismo lugar.</text>
+  <text x="64" y="351" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.4" fill="#aabccb">WINDOWS · FLUTTER · DART · SUPABASE</text>
+  <g transform="translate(1090,128)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 28V5H69L92 28H184V158H5Z" stroke="#dbc48e" stroke-width="4"/>
+    <path d="M31 59H147M31 88H124M31 117H102" stroke="#7894aa" stroke-width="5"/>
+    <circle cx="182" cy="153" r="38" fill="#142638" stroke="#dbc48e" stroke-width="4"/>
+    <path d="M165 152L177 164L199 140" stroke="#dbc48e" stroke-width="5"/>
+  </g>
+</svg>

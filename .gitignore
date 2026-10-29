@@ -1,0 +1,19 @@
+# This repository only contains public showcase material.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.sqlite
+*.sqlite3
+*.mdbk
+*.zip
+*.log
+build/
+.dart_tool/
+node_modules/
+.DS_Store
+Thumbs.db
